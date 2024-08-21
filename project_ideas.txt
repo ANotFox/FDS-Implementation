@@ -1,0 +1,19 @@
+Research papers:
+
+https://aclanthology.org/I11-1079.pdf
+
+Fine-Grained Sentiment Analysis with Structural Features
+https://aclanthology.org/I11-1038.pdf
+
+Depression and Self-Harm Risk Assessment in Online Forums
+https://aclanthology.org/D17-1322/
+
+Automatic Generation of English Respellings
+https://aclanthology.org/N13-1072.pdf
+
+Fast and Robust Neural Network Joint Models for Statistical Machine
+Translation
+https://aclanthology.org/P14-1129.pdf
+
+SVD and Clustering for Unsupervised POS Tagging
+https://aclanthology.org/P10-2040.pdf
